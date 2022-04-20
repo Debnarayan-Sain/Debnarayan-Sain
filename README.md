@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deb
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Electrical Engineering.
-- 💞️ I’m looking to collaborate with the organization in which i can implement my knowledge.
+- 🌱 I’m currently Pursuing B.Tech
+- 💞️ I’m looking to collaborate with the organization in which i can implement my knowledge
 - 📫 How to reach me ? ..email me at=debnarayansain2017@gmail.com
 
 <!---
